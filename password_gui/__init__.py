@@ -1,1 +1,2 @@
+# GUI password checker package
 
